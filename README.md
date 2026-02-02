@@ -25,6 +25,18 @@ Additional projects will be added as analyses are completed.
   Macroeconomic case study examining fiscal policy failure, capital flows, exchange-rate dynamics, and political economy constraints driving hyperinflation and long-run output loss.  
   → **View project:** [`lebanon-currency-collapse`](./lebanon-currency-collapse)
 
+## Ongoing & Upcoming Projects
+
+This repository is an active portfolio of applied economics and data analysis work.  
+Future additions will expand on the themes below:
+
+- Sports analytics and local economic impacts
+- Applied econometrics and pricing models
+- Labor and compensation analysis
+- Macroeconomic instability and policy case studies
+
+Projects are added as they reach a completed, documented state.
+
 ## Project Focus Areas
 These areas reflect the primary analytical domains explored across current and upcoming projects in this repository.
 - Pricing and demand analysis
