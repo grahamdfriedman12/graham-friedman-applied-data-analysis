@@ -71,7 +71,7 @@ In a regulated labor market (rookie scale, max contracts, long-term deals), sala
 ### Data
 - **Excel dataset (XLSX):**  
   [NBA Player Salaries and Performance Metrics (XLSX)](./data/NBA%20Player%20Salaries%20and%20Performance%20Metrics%20export%202025-11-28%2004-47-37.xlsx)  
-  *(GitHub may not preview this file — download to view locally.)*
+  *(Large file — click the link above, then use the Download button left of the pencil to view locally.)*
 
 ---
 
