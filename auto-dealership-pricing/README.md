@@ -1,7 +1,8 @@
 # Used Car Pricing & Model Selection
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Applied%20Econometrics](https://img.shields.io/badge/Focus-Applied%20Econometrics-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 **Key takeaway:** This project compares interpretable and flexible pricing models (linear/regularized regression, GAMs, and tree-based methods) and recommends a final approach that balances predictive accuracy with explainability for dealership pricing and inventory decisions.
 
