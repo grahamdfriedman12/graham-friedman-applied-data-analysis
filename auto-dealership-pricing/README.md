@@ -13,7 +13,7 @@
 
 - **Reproducible Analysis:**  
   [`Auto Code.html`](./code/Auto%20Code.html)  
-  *(Large HTML file — click on link above and click download button left of the pencil on the righthand side to view full analysis)*
+  *(Large HTML file — click on the link above and then click the download button left of the pencil button on the righthand side of the screen to view full analysis)*
 
 ---
 
