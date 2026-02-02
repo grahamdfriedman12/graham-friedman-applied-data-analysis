@@ -1,5 +1,9 @@
 # Baltimore Ravens Football and Crime in Baltimore City (2011–2023)
 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Econometrics](https://img.shields.io/badge/Focus-Econometrics-blue)
+
 **Key takeaway:**  
 This study examines whether Baltimore Ravens football games influence crime in Baltimore City. While game outcomes (wins vs. losses) show little effect, **very high-magnitude games (such as playoff games)** are associated with noticeable reductions in both violent and property crime. At the same time, average daily crime rates are **higher on football-related days** than on non-football days, complicating simple claims that team success reduces crime.
 
