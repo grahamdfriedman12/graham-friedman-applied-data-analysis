@@ -1,5 +1,9 @@
 # NBA Salary Determinants (2022–23)
 
+![Stata](https://img.shields.io/badge/Stata-1f5aff)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Labor%20Economics](https://img.shields.io/badge/Focus-Labor%20Economics-blue)
+
 **Key takeaway:**  
 Using a cross-sectional log-salary regression for the 2022–23 season, this project finds that **availability (games played)** and **recognition (All-Star selection)** explain player pay more consistently than advanced metrics like **BPM**, once institutional contract constraints (rookie scale, max contracts, etc.) are considered. The final model explains ~54% of variation in log salaries.
 
