@@ -66,7 +66,7 @@ In a regulated labor market (rookie scale, max contracts, long-term deals), sala
 ### Report
 - **Paper (DOCX):**  
   [What Drives NBA Players Salaries.docx](./reports/What%20Drives%20NBA%20Players%20Salaries.docx)  
-  *(Large file — click the link, then use the Download button to view locally.)*
+  *(Large file — click the link above, then use the Download button left of the pencil to view locally.)*
 
 ### Data
 - **Excel dataset (XLSX):**  
