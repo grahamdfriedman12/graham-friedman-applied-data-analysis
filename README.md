@@ -13,6 +13,10 @@ Additional projects will be added as analyses are completed.
   Applied econometrics study analyzing post-game crime patterns using three-day windows following Ravens games (2011–2023). Focuses on count data modeling, inference, and policy-relevant interpretation rather than prediction.  
   → **View project:** [`ravens-crime-study`](./ravens-crime-study)
 
+- **NBA Salary Determinants (2022–23)**  
+  Econometric study using Stata log-salary regressions to test how performance (BPM), availability (games played), age, and awards (All-Star/All-NBA) relate to NBA pay in a regulated contract environment. Emphasizes robust inference and institutional interpretation.  
+  → **View project:** [`nba-salary-determinants`](./nba-salary-determinants)
+
 ## Project Focus Areas
 These areas reflect the primary analytical domains explored across current and upcoming projects in this repository.
 - Pricing and demand analysis
