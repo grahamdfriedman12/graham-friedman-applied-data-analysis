@@ -2,8 +2,18 @@
 
 **Role:** Applied Data Analyst  
 **Tools:** R, mgcv (GAM), glmnet (Lasso), Random Forest, Cross-Validation  
-**Deliverables:** Technical Report, Executive Report, Reproducible Code  
 
+## Deliverables
+
+- **Technical Report:**  
+  [`Auto_Technical_Report.pdf`](./reports/Auto_Technical_Report.pdf)
+
+- **Executive (Non-Technical) Report:**  
+  [`Auto_NonTechnical_Report.pdf`](./reports/Auto_NonTechnical_Report.pdf)
+
+- **Reproducible Analysis:**  
+  [`Auto_Code.html`](./code/Auto_Code.html)  
+  *(Large HTML file — download to view full analysis)*
 ---
 
 ## Project Overview
@@ -111,3 +121,10 @@ The **GAM** was selected as the final model due to its ability to capture nonlin
 1. Open `code/Auto_Code.html`
 2. Review preprocessing, model estimation, and evaluation steps
 3. Refer to reports for interpretation and recommendations
+
+### How to Navigate This Project
+
+- Start with this README for context and methodology
+- Read the **Executive Report** for insights and recommendations
+- Refer to the **Technical Report** for statistical details
+- Download the **HTML analysis** to inspect the full reproducible workflow
