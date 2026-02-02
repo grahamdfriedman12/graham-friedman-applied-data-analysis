@@ -44,8 +44,8 @@ These areas reflect the primary analytical domains explored across current and u
 - Labor and compensation modeling
 - Macroeconomic instability and inflation dynamics
 
-_Last updated: February 2026_
-
 Each project folder includes a short overview, methodology summary, key findings, and supporting code or documentation where appropriate.
 
 > Note: Projects are presented to emphasize analytical judgment and interpretability rather than purely academic exposition.
+
+_Last updated: February 2026_
