@@ -1,5 +1,9 @@
 # Baltimore Ravens & Local Economic Activity
 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Applied%20Economics](https://img.shields.io/badge/Focus-Applied%20Economics-blue)
+
 Related project: [Ravens Football and Crime in Baltimore City](../ravens-crime-study)
 
 ## Do Baltimore Ravens Home Games Boost Local Spending? (Baltimore, 2020–2024)
