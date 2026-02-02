@@ -111,7 +111,7 @@ The **GAM** was selected as the final model due to its ability to capture nonlin
 - Incorporate regional pricing controls
 - Add condition proxies
 - Estimate prediction intervals for pricing risk assessment
-
+These limitations suggest pricing recommendations should be used as decision support rather than deterministic rules.
 ---
 
 ## Repository Contents
