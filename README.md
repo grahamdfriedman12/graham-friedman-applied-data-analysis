@@ -9,6 +9,10 @@ Additional projects will be added as analyses are completed.
   Applied regression, regularization, GAMs, and tree-based methods to model used vehicle prices. Emphasizes interpretability vs. predictive performance tradeoffs and produces inventory and pricing recommendations.  
   **View project:** [`auto-dealership-pricing`](./auto-dealership-pricing)
 
+- **Baltimore Ravens Football and Crime in Baltimore City**  
+  Applied econometrics study analyzing post-game crime patterns using three-day windows following Ravens games (2011–2023). Focuses on count data modeling, inference, and policy-relevant interpretation rather than prediction.  
+  → **View project:** [`ravens-crime-study`](./ravens-crime-study)
+
 ## Project Focus Areas
 These areas reflect the primary analytical domains explored across current and upcoming projects in this repository.
 - Pricing and demand analysis
