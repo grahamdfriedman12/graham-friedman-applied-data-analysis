@@ -6,14 +6,15 @@
 ## Deliverables
 
 - **Technical Report:**  
-  [`Auto_Technical_Report.pdf`](./reports/Auto_Technical_Report.pdf)
+  [`Auto Technical Report.pdf`](./reports/Auto%20Technical%20Report.pdf)
 
 - **Executive (Non-Technical) Report:**  
-  [`Auto_NonTechnical_Report.pdf`](./reports/Auto_NonTechnical_Report.pdf)
+  [`Auto Non-Technical Report.pdf`](./reports/Auto%20Non-Technical%20Report.pdf)
 
 - **Reproducible Analysis:**  
-  [`Auto_Code.html`](./code/Auto_Code.html)  
+  [`Auto Code.html`](./code/Auto%20Code.html)  
   *(Large HTML file — download to view full analysis)*
+
 ---
 
 ## Project Overview
