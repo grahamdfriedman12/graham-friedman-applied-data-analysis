@@ -66,7 +66,7 @@ Interpretation: daily spending is influenced by many omitted factors (COVID phas
 ### Report
 - **Paper (DOCX):**  
   [Do Baltimore Ravens Home Games Boost Local Spending.docx](./reports/Do%20Baltimore%20Ravens%20Home%20Games%20Boost%20Local%20Spending.docx)  
-  *(If GitHub won’t preview the file, click the link and then use the **Download** button to view locally.)*
+  *(If GitHub won’t preview the file, click the link above and then use the **Download** button left of the pencil to view locally.)*
 
 ### Data
 - **Merged dataset (CSV):**  
