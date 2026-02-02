@@ -19,7 +19,11 @@ Additional projects will be added as analyses are completed.
   
 - **Baltimore Ravens & Local Economic Activity (2020–2024)**  
   Daily spending analysis testing whether Ravens home games and post-game windows shift aggregate citywide consumption. Uses Opportunity Insights city-daily spending data merged with Ravens game indicators; results align with sports economics literature showing weak/undetectable macro spending effects.  
-→ **View project:** [`ravens-local-economic-activity`](./ravens-local-economic-activity)
+  → **View project:** [`ravens-local-economic-activity`](./ravens-local-economic-activity)
+
+- **Lebanon’s 2019–2023 Currency Collapse**  
+  Macroeconomic case study examining fiscal policy failure, capital flows, exchange-rate dynamics, and political economy constraints driving hyperinflation and long-run output loss.  
+  → **View project:** [`lebanon-currency-collapse`](./lebanon-currency-collapse)
 
 ## Project Focus Areas
 These areas reflect the primary analytical domains explored across current and upcoming projects in this repository.
