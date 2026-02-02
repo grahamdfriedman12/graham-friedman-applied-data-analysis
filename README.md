@@ -16,6 +16,10 @@ Additional projects will be added as analyses are completed.
 - **NBA Salary Determinants (2022–23)**  
   Econometric study using Stata log-salary regressions to test how performance (BPM), availability (games played), age, and awards (All-Star/All-NBA) relate to NBA pay in a regulated contract environment. Emphasizes robust inference and institutional interpretation.  
   → **View project:** [`nba-salary-determinants`](./nba-salary-determinants)
+  
+- **Baltimore Ravens & Local Economic Activity (2020–2024)**  
+  Daily spending analysis testing whether Ravens home games and post-game windows shift aggregate citywide consumption. Uses Opportunity Insights city-daily spending data merged with Ravens game indicators; results align with sports economics literature showing weak/undetectable macro spending effects.  
+→ **View project:** [`ravens-local-economic-activity`](./ravens-local-economic-activity)
 
 ## Project Focus Areas
 These areas reflect the primary analytical domains explored across current and upcoming projects in this repository.
