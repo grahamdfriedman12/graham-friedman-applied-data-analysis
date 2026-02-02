@@ -1,5 +1,9 @@
 # Lebanon’s 2019–2023 Currency Collapse
 
+![Macroeconomics](https://img.shields.io/badge/Focus-Macroeconomics-darkred)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 **Key takeaway:**  
 This project analyzes Lebanon’s currency collapse through a macroeconomic lens, linking political institutions, fiscal imbalances, capital flows, and monetary policy failures to hyperinflation, capital controls, and long-run economic contraction.
 
