@@ -50,8 +50,7 @@ Crime data were aggregated to the three-day level to focus on post-game effects 
 
 ## Methods Summary
 
-This study uses **count-based statistical analysis** appropriate for crime data.  
-Results are interpreted in terms of **direction, magnitude, and statistical significance**, with careful attention to overdispersion and realistic inference rather than purely predictive accuracy.
+The original analysis was conducted in **R**, using statistical techniques appropriate for overdispersed crime count data. Models emphasized **interpretability and inference** rather than prediction, with results evaluated using statistical significance, effect sizes, and robustness across specifications.
 
 ---
 
@@ -84,6 +83,7 @@ Results are interpreted in terms of **direction, magnitude, and statistical sign
 ### Report
 - **Final paper:**  
   [The Effects of Baltimore Ravens Football on Crime in Baltimore City (Job Ready).docx](./reports/The%20Effects%20of%20Baltimore%20Ravens%20Football%20on%20Crime%20in%20Baltimore%20City%20(Job%20Ready).docx)
+*(Large file — click the link above, then use the Download button left of the pencil to view locally)*
 
 ### Data
 - **Cleaned dataset:**  
