@@ -15,14 +15,12 @@ This project analyzes Lebanon’s currency collapse through a macroeconomic lens
 ## Deliverables
 
 - **Presentation Slides:**  
-  *Lebanon’s 2019–2023 Currency Collapse.pdf*  
-  *(Conceptual framework, diagrams, and macroeconomic analysis)*
+  [Lebanon_2019_2023_Currency_Collapse.pdf](./reports/Lebanon_2019_2023_Currency_Collapse.pdf)  
+  *(Large file — click the link above, then use the Download button left of the pencil to view locally.)*
 
 - **Long-Form Presentation Script:**  
-  *Lebanon long form presentation script.pdf*  
-  *(Detailed narrative explanation of historical, political, and economic mechanisms)*
-
-> **Note:** These files are large. Click a file, then use the **Download** button to view locally.
+  [Lebanon_Currency_Collapse_Long_Form_Script.pdf](./reports/Lebanon_Currency_Collapse_Long_Form_Script.pdf)  
+  *(Large file — click the link, then use the Download button left of the pencil to view locally.)*
 
 ---
 
