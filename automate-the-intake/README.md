@@ -68,11 +68,13 @@ The framework applies equally to individuals and organizations. The companies ge
 
 ## Contents
 
-- **Paper:**
-[`paper/`](./paper)
+- **Paper:**  
+  [`paper/automate_intake_preserve_thinking_paper.pdf`](./paper/automate_intake_preserve_thinking_paper.pdf)  
+  *(Large file — click the link above, if it does not immediatley show, then use the Download button left of the pencil button on the righthand side of the screen to view)*
 
-- **Presentation:**
-[`presentation/`](./presentation)
+- **Presentation:**  
+  [`presentation/Automate_The_Intake_Preserve_The_Thinking_Presentation.pdf`](./presentation/Automate_The_Intake_Preserve_The_Thinking_Presentation.pdf)  
+  *(Large file — click the link above, if it does not immediatley show, then use the Download button left of the pencil button on the righthand side of the screen to view)*
 
 ---
 
