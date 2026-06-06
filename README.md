@@ -17,7 +17,7 @@ View Project → [auto-dealership-pricing](auto-dealership-pricing)
 - **Baltimore Ravens Football and Crime in Baltimore City**
 Applied econometrics study analyzing post-game crime patterns using three-day windows following Ravens games (2011–2023). Focuses on count data modeling, inference, and policy-relevant interpretation rather than prediction.
 
-View project → [ravens-crime-study](ravens-crime-study)
+View Project → [ravens-crime-study](ravens-crime-study)
 
 - **NBA Salary Determinants (2022–23)**
 Econometric study using Stata log-salary regressions to test how performance (BPM), availability (games played), age, and awards (All-Star/All-NBA) relate to NBA pay in a regulated contract environment. Emphasizes robust inference and institutional interpretation.
@@ -32,7 +32,7 @@ View Project → [ravens-local-economic-activity](ravens-local-economic-activity
 - **Lebanon's 2019–2023 Currency Collapse**
 Macroeconomic case study examining fiscal policy failure, capital flows, exchange-rate dynamics, and political economy constraints driving hyperinflation and long-run output loss.
 
-View Porject→ [lebanon-currency-collapse](lebanon-currency-collapse)
+View Project→ [lebanon-currency-collapse](lebanon-currency-collapse)
 
 ## Project Focus Areas
 
