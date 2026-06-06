@@ -8,7 +8,7 @@ This repository contains selected applied data analysis, econometrics, and AI sy
 
 **Automate the Intake. Preserve the Thinking.**
 
-A 23-page philosophy paper on AI deployment and human judgment, paired with a 30-slide work showcase presented live to a consulting firm's AI team. Covers the Automate, Amplify, Preserve framework, context architecture design, and broader commentary on how organizations should think about deploying AI. The paper is the philosophy. The presentation is the applied system.
+A 23-page philosophy paper on AI deployment and human judgment, paired with a 18-slide work showcase presented live to a consulting firm's AI team. Covers the Automate, Amplify, Preserve framework, context architecture design, and broader commentary on how organizations should think about deploying AI. The paper is the philosophy. The presentation is the applied system.
 
 View Project → [automate-the-intake](automate-the-intake)
 
