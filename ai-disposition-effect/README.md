@@ -56,7 +56,7 @@ The proposal also states a mechanism for why the intervention could work where t
 
 ### Report
 - **Proposal (PDF):**
-  [Experimental_Econ_Research_Proposal.pdf](./Experimental_Econ_Research_Proposal.pdf)
+  [Experimental_Econ_Research_Proposal.pdf](Experimental_Econ_Research_Proposal.pdf)
   *(GitHub previews PDFs in the browser. If it does not load, use the **Download** button to view locally.)*
 
 ---
