@@ -51,4 +51,6 @@ For independent frameworks and AI systems work, see my [Independent Projects](ht
 
 Each project folder includes a short overview, methodology summary, key findings, and supporting code or documentation where appropriate.
 
+**[← Back to my GitHub profile](https://github.com/grahamdfriedman12)**
+
 *Last updated: August 2026*
