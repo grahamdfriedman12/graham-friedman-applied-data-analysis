@@ -12,7 +12,6 @@ This study examines whether Baltimore Ravens football games influence crime in B
 ## Role & Context
 
 **Role:** Applied Data Analyst / Applied Econometrics (Paid)
-
 **Context:** Public policy, urban economics, sports analytics
 
 ---
