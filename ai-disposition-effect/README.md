@@ -63,3 +63,7 @@ The proposal also states a mechanism for why the intervention could work where t
 
 ## Notes
 This is a research design, not an executed study, so there is no collected dataset or estimation output. The proposed implementation is in oTree and the full analysis plan is specified in Section IV of the paper. A working oTree implementation, or a simulation of the design under varying AI accuracy, could be added later to turn the proposal into a runnable study.
+
+---
+
+**[← Back to Applied Data Analysis & Econometrics](../README.md)**
