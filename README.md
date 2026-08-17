@@ -47,9 +47,9 @@ View Project → [ai-disposition-effect](ai-disposition-effect)
 - Macroeconomic instability and inflation dynamics
 - Experimental design and causal inference
 
-For independent frameworks and AI systems work, see my [Independent Projects](https://github.com/grahamdfriedman12/graham-friedman-independent-projects) repository.
-
 Each project folder includes a short overview, methodology summary, key findings, and supporting code or documentation where appropriate.
+
+For independent frameworks and AI systems work, see my [Independent Projects](https://github.com/grahamdfriedman12/graham-friedman-independent-projects) repository.
 
 **[← Back to Main Github Landing Page](https://github.com/grahamdfriedman12)**
 
