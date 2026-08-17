@@ -135,3 +135,7 @@ These limitations suggest pricing recommendations should be used as decision sup
 - Read the **Executive Report** for insights and recommendations
 - Refer to the **Technical Report** for statistical details
 - Download the **HTML analysis** to inspect the full reproducible workflow
+
+---
+
+**[← Back to Applied Data Analysis & Econometrics](../README.md)**
