@@ -83,3 +83,7 @@ Interpretation: daily spending is influenced by many omitted factors (COVID phas
 
 ## Notes on Reproducibility
 This project’s cleaning, variable construction, tables, and figures were produced in Excel. The final paper and dataset are provided for transparency and auditing. A replication script (Python/R/Stata) could be added in the future if the Excel workflow is migrated to code.
+
+---
+
+**[← Back to Applied Data Analysis & Econometrics](../README.md)**
