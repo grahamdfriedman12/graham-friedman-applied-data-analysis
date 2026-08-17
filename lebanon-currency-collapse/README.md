@@ -102,3 +102,7 @@ The collapse is analyzed using core macroeconomic frameworks taught in intermedi
 1. Start with the presentation slides for a structured overview
 2. Read the long-form script for detailed economic reasoning
 3. Use the analysis as a case study in macroeconomic crisis dynamics
+
+---
+
+**[← Back to Applied Data Analysis & Econometrics](../README.md)**
