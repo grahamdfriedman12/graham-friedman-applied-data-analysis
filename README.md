@@ -1,11 +1,9 @@
 # Applied Data Analysis & Econometrics
-
 This repository contains selected applied data analysis and econometrics projects using real-world datasets. The focus is on model selection, interpretability, and analytical judgment, with an emphasis on translating quantitative results into clear, decision-relevant insights rather than purely academic exposition.
 
 ---
 
 ## Featured Projects
-
 **Used Car Pricing & Model Selection**  ·  *Paid research* ·
 Applied regression, regularization, GAMs, and tree-based methods to model used vehicle prices. Emphasizes interpretability vs. predictive performance tradeoffs and produces inventory and pricing recommendations for a dealership audience.
 View Project → [auto-dealership-pricing](auto-dealership-pricing)
@@ -36,12 +34,18 @@ View Project → [lebanon-currency-collapse](lebanon-currency-collapse)
 
 ---
 
-## Project Focus Areas
+**AI Recommendation & the Disposition Effect in Portfolio Management**  ·  *Research proposal* ·
+Framed field experiment proposing to test whether an in-the-moment AI sell recommendation reduces the disposition effect in finance-trained subjects. Specifies a between-subjects design with pre-programmed price paths, PGR minus PLR as the primary outcome, and a t-test plus OLS analysis plan. A pre-registration-style design writeup rather than a completed study.
+View Project → [ai-disposition-effect](ai-disposition-effect)
 
+---
+
+## Project Focus Areas
 - Pricing and demand analysis
 - Sports and behavioral economics
 - Labor and compensation modeling
 - Macroeconomic instability and inflation dynamics
+- Experimental design and causal inference
 
 For independent frameworks and AI systems work, see my [Independent Projects](https://github.com/grahamdfriedman12/graham-friedman-independent-projects) repository.
 
