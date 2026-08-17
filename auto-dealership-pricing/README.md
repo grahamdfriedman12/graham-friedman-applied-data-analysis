@@ -6,7 +6,7 @@
 
 **Key takeaway:** This project compares interpretable and flexible pricing models (linear/regularized regression, GAMs, and tree-based methods) and recommends a final approach that balances predictive accuracy with explainability for dealership pricing and inventory decisions.
 
-**Role:** Applied Data Analyst  
+**Role:** Applied Data Analyst (Paid)  
 **Tools:** R, mgcv (GAM), glmnet (Lasso), Random Forest, Cross-Validation  
 
 ## Deliverables
