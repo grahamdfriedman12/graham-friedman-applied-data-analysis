@@ -99,3 +99,7 @@ The original analysis was conducted in **R**, using statistical techniques appro
 ## Notes on Reproducibility
 
 The original analysis was conducted using statistical software. The final written paper and cleaned dataset are provided here to document the methodology, results, and conclusions. Reproduction code can be added in the future if the original analysis scripts are recovered or reconstructed.
+
+---
+
+**[← Back to Applied Data Analysis & Econometrics](../README.md)**
