@@ -6,13 +6,13 @@ This repository contains selected applied data analysis and econometrics project
 
 ## Featured Projects
 
-**Used Car Pricing & Model Selection**  ·  *Paid research*
+**Used Car Pricing & Model Selection**  ·  *Paid research* ·
 Applied regression, regularization, GAMs, and tree-based methods to model used vehicle prices. Emphasizes interpretability vs. predictive performance tradeoffs and produces inventory and pricing recommendations for a dealership audience.
 View Project → [auto-dealership-pricing](auto-dealership-pricing)
 
 ---
 
-**Baltimore Ravens Football and Crime in Baltimore City**  ·  *Paid research*
+**Baltimore Ravens Football and Crime in Baltimore City**  ·  *Paid research* ·
 Applied econometrics study analyzing post-game crime patterns using three-day windows following Ravens games (2011–2023). Focuses on count data modeling, inference, and policy-relevant interpretation rather than prediction.
 View Project → [ravens-crime-study](ravens-crime-study)
 
