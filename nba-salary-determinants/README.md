@@ -81,3 +81,7 @@ In a regulated labor market (rookie scale, max contracts, long-term deals), sala
 
 ## Notes on Reproducibility
 The original analysis was completed in **Stata**, but the `.do` file was not recovered. This repository includes the final written report and the original dataset so the workflow, assumptions, and results are fully documented. A replication script can be added later if reconstructed.
+
+---
+
+**[← Back to Applied Data Analysis & Econometrics](../README.md)**
