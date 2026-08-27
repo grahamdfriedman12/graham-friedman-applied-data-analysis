@@ -14,7 +14,7 @@ A **research proposal** (a pre-registration-style design, not a completed study)
 ---
 
 ## Role & Methods
-**Role:** Co-author, experimental design and empirical strategy
+**Role:** Author, experimental design and empirical strategy
 **Design:** Framed field experiment (Harrison and List, 2004), between-subjects randomized design
 **Outcome & inference:** PGR minus PLR, one-sided two-sample t-test, OLS with controls, override-rate analysis
 **Proposed platform:** oTree (open-source experimental economics platform)
